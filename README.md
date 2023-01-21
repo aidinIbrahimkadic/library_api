@@ -6,7 +6,7 @@ docker pull kadija/repository
 
 This is a simple library application providing a REST
 API. 
-App uses mysql database. It contains of two tables:
+App uses mysql database. It contains of two tables (Agilno_zadatak.sql):
  - users (id VARCHAR, username VARCHAR, email VARCHAR, password VARCHAR, role VARCHAR (admin/customer), createdAt DATE, updatedAt DATE)
  - books (id VARCHAR, name VARCHAR, slug VARCHAR (automatically generated), author VARCHAR, onStock INT, borrowed INT, createdAt DATE, updatedAt DATE)
  
