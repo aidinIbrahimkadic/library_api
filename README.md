@@ -12,7 +12,7 @@ App uses mysql database. It contains of two tables:
  
  Database credentials should be set in .env file, and it should be automatically created with sequelize.sync() method in db.js
 
-All APIs are documented in Swagger: [http://localhost/3000/api-docs]
+All APIs are documented in Swagger: http://localhost/3000/api-docs
 
 ## Install dependencies
 
