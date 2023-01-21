@@ -21,4 +21,3 @@ All APIs are documented in Swagger: http://localhost/3000/api-docs
 ## Run the app
 
     npm start
-    nodemon server.js
